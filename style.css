@@ -1,0 +1,29 @@
+html
+{
+	background-color:gray;
+}
+nav
+{
+	overflow:hidden;
+	background-color:#333300;
+}
+nav a
+{
+	color:white;
+	text-decoration:none;
+	padding:30px;
+}
+nav a:hover
+{
+	background-color:black;
+	color:white;
+}
+	
+img {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  
+  border-radius: 50%;
+
+}
+
